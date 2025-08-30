@@ -1,6 +1,7 @@
-images/Railway1.jpg
-images/Railway2.jpg
-images/Railway3.jpg
+![Railway 1](images/Railway1.jpg)
+![Railway 2](images/Railway2.jpg)
+![Railway 3](images/Railway3.jpg)
+
 
 # G-Code Generator for Railway Sleepers
 
