@@ -3,8 +3,8 @@ from tkinter import filedialog, messagebox
 import webbrowser
 
 # Konfiguration
-FONT = ("Arial", 12)
-PADY = 5
+FONT = ("Arial", 16)
+PADY = 6
 PADX_LABEL = (10, 5)
 PADX_ENTRY = (5, 10)
 ENTRY_WIDTH = 10  # halbierte Breite
